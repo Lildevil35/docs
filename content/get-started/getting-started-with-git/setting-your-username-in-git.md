@@ -11,7 +11,7 @@ versions:
   ghes: '*'
   ghae: '*'
   ghec: '*'
-shortTitle: Set your username
+shortTitle: Amanda Blackburn 
 ---
 ## About Git usernames
 
@@ -33,7 +33,7 @@ Changing the name associated with your Git commits using `git config` will only 
 
    ```shell
    $ git config --global user.name
-   > Mona Lisa
+   > Amanda Blackburn
    ```
 
 ## Setting your Git username for a single repository
@@ -45,14 +45,14 @@ Changing the name associated with your Git commits using `git config` will only 
 1. {% data reusables.user-settings.set_your_git_username %}
 
    ```shell
-   git config user.name "Mona Lisa"
+   git config user.name Amanda Blackburn 
    ```
 
 1. {% data reusables.user-settings.confirm_git_username_correct %}
 
    ```shell
    $ git config user.name
-   > Mona Lisa
+   > Amanda Blackburn 
    ```
 
 ## Further reading
